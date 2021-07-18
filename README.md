@@ -1,4 +1,4 @@
-# Olá, Matheus Rodrigues 🧠
+# Olá, eu sou o Matheus Rodrigues 🧠
 <div>
   <a href="https://github.com/matheusrodrinks">
 </div>
