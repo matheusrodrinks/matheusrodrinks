@@ -11,6 +11,3 @@
 
   <div>
   <a href="https://github.com/matheusrodrinks">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusrodrinks&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusrodrinks&layout=compact&langs_count=7&theme=merko"/>
-</div>
