@@ -1,13 +1,18 @@
-# Olá, eu sou o Matheus Rodrigues 🧠
-<div>
-  <a href="https://github.com/matheusrodrinks">
-</div>
-<div align="center">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
- <a href="https://www.linkedin.com/in/matheus-mendon%C3%A7a-b7326a214/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  <a href="https://github.com/matheusrodrinks"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-  
+<p align="left"> 
+  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
+</p>
 
-  <div>
-  <a href="https://github.com/matheusrodrinks">
+<p align="left">
+  🦄 Linguagens: **JAVASCRIPT e JAVA.**
+</p>
+
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+</p>
+
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
